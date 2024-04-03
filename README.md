@@ -1,7 +1,5 @@
 # Software Engineering in Practice | Machine Learning & MLOps Lab
 
-This repository contains additional lecture slides for the Programming II course. Slides are created using [reveal.js](https://revealjs.com/), a framework for creating beautiful interactive slide decks.
-
 ## Corpus Description
 
 The slides present an overview of a lecture focused on the fundamentals of Machine Learning (ML) and Machine Learning Operations (MLOps). The main objective is to give participants a solid understanding of ML basics and the processes involved in bringing ML models into production through MLOps. The lecture is structured into several key sections:
