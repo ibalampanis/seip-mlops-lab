@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: default
-# class: invert
+class: invert
 size: 4:3
 ---
 
@@ -293,6 +293,16 @@ section {
 3. Types of Machine Learning
 4. Introduction to MLOps
 5. **Practical Demonstration** 💡
+
+---
+
+# Practical Demonstration 👨‍💻
+
+-   **Project:** Sentiment Analysis on IMDB Movie Reviews
+-   **Overview:** Perform sentiment analysis on a dataset of 50,000 movie reviews from IMDB.
+-   **Contents:** Jupyter notebook outlining the process from data collection to model evaluation and iteration.
+-   **Github repo:** [IMDB Sentiment Analysis](https://github.com/garosap/imdb-sentiment-analysis)
+
 
 ---
 
