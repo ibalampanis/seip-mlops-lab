@@ -12,11 +12,11 @@ The slides present an overview of a lecture focused on the fundamentals of Machi
 
 4. **Introduction to MLOps:** This section introduces MLOps as the integration of ML, DevOps, and Data Engineering, aiming to streamline the ML model lifecycle. It highlights the importance of MLOps in ensuring the reliable deployment and maintenance of ML models in production environments, detailing the key components, best practices, and tools involved in the process.
 
-5. **Practical Demonstration:** Although details are not provided in the summary, this part likely involves a hands-on example or case study illustrating the application of MLOps in a real-world scenario, such as enhancing an e-commerce platform with a personalized recommendation system.
+5. **Practical Demonstration:** This part involves a hands-on example or case study illustrating the application of Machine Learning in a real-world scenario, sentiment analysis of movie review. [This is the repository](https://github.com/garosap/imdb-sentiment-analysis) respresenting the demo.
 
 ## Viewing the Slides
 
-Open the generated `.html` file with your favorite browser to view the slides.
+Open the generated `.pdf` or `.html` file with your favorite PDF viewer or browser to view the slides. You can find them in [this](slides/slideshows/) directory.
 
 ## Authors
 
