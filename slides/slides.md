@@ -327,5 +327,22 @@ section {
 }
 </style>
 
-![height:650px](Data_Professionals.jpg) 
+![height:650px](Data_Professionals.png) 
+
+---
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
+
+
+# Thank you for your attention! 🙏
+
+
+#### "Machine intelligence is the last invention that humanity will ever need to make." 
+##### [Nick Bostrom](https://nickbostrom.com/)
 
